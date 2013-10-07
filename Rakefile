@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Myrottenpotato::Application.load_tasks
+Rottenpotatoes::Application.load_tasks

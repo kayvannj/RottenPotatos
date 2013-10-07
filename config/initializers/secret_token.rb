@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Myrottenpotato::Application.config.secret_token = '18c91f665d0d3fb351e17ae1f510d89344f92439bac7895109fe2a79ca80c89dcbce941ca1aff7ea985272bbf755b752aae6b1c6277472bd2e26048c280e0b79'
+Rottenpotatoes::Application.config.secret_token = '683d4dea01b4bc5f21a276ea8cedf23a4f26d44d8e8680a2c16fb0c10ee60daae78896b37cce798dc793dc270bc7c1325ab83b175c6b35aea8e2cb2d19a25f8f'
